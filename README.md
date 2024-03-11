@@ -8,10 +8,9 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas pela faculdade Se
 - 💬 Let's talk! Se sentir confortável, vamos falar sobre back-end ou livros - ou que você tiver em mente.
 - 📫 Cê pode me encontrar no meu twitter @hugo.saraujo. 
 
-
 <div>
 <a href="https://github.com/hugosaraujo">
-<img loading="lazy" height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Ferramentas e Tecnologias: 
