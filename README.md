@@ -14,8 +14,7 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas pela faculdade Se
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
           
 
-<div>
-<a href="https://github.com/hugosaraujo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
