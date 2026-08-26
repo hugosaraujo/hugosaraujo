@@ -15,9 +15,10 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas pela faculdade Se
           
 
 <div align="center">
- <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<div>
+  <a href="https://github.com/hugosaraujo">
+    <img loading="lazy" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img loading="lazy" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  </a>
+</div>
 </div>
