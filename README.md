@@ -15,7 +15,7 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas pela faculdade Se
           
 <div>
   <a href="https://github.com/hugosaraujo">
-    <img loading="lazy" height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
-    <img loading="lazy" height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img loading="lazy" height="180" src="https://github-readme-top-langs-two.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img loading="lazy" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hugosaraujo&theme=dracula" alt="Streak Stats" />
   </a>
 </div>
