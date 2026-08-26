@@ -13,12 +13,9 @@ Sou formado no curso de Análise e Desenvolvimento de Sistemas pela faculdade Se
 ### Estou aprendendo:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
           
-
-<div align="center">
 <div>
   <a href="https://github.com/hugosaraujo">
-    <img loading="lazy" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-    <img loading="lazy" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+    <img loading="lazy" height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=hugosaraujo&layout=compact&langs_count=7&theme=dracula" alt="Top Langs" />
+    <img loading="lazy" height="180" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=hugosaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-</div>
 </div>
